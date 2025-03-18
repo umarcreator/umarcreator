@@ -13,9 +13,11 @@
 
 - 📄 Know about my experiences [https://buzzyarticles.com/umar.cv](https://buzzyarticles.com/umar.cv)
 
+- 🌐 Visit my website [https://buzzyarticles.com](https://buzzyarticles.com)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/umarcreator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umarcreator" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/umarcreator" target="blank" rel="follow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umarcreator" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
